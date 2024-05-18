@@ -63,13 +63,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-image: url(./images/pattern-background-desktop.svg); */
 }
 .order-summary {
   max-width: 40rem;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 40fr 80fr;
+  grid-template-rows: 2fr 5fr;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 20px;
   border-radius: 9px;
   overflow: hidden;
